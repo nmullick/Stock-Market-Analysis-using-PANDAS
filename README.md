@@ -1,6 +1,4 @@
-# IS590PR Assignment 4: Pandas & Stock Analysis 
-
-https://github.com/napsternxg/DataAnalysisPython
+Python Stock Market Analysis
 
 Borrowing ideas from those sources, create a well-documented Python script (not a Jupyter Notebook) with modular design (broken up into sensible functions) and some Doctests, that does the following:
 
