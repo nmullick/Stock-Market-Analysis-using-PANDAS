@@ -1,6 +1,6 @@
 # IS590PR Assignment 4: Pandas & Stock Analysis 
 
-Review Chapter 4 of McKinney’s book and the Jupyter Notebook we looked at in class by Shubhanshu Mishra here: https://github.com/napsternxg/DataAnalysisPython
+https://github.com/napsternxg/DataAnalysisPython
 
 Borrowing ideas from those sources, create a well-documented Python script (not a Jupyter Notebook) with modular design (broken up into sensible functions) and some Doctests, that does the following:
 
